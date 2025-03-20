@@ -1,4 +1,4 @@
-import React from 'react'
+//import React from 'react'
 import "./about.css";
 import aboutImg from "../../assets/IMG_0017.jpeg";
 import CV from "../../assets/Irwin__CV.pdf";
