@@ -2,7 +2,7 @@
   "name": "irwinzgambo",
   "private": true,
   "version": "0.0.0",
-  "type": "commonjs",
+  "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
@@ -15,7 +15,9 @@
     "emailjs-com": "^3.2.0",
     "react": "^18.3.1",
     "react-anchor-link-smooth-scroll": "^1.0.12",
-    "react-dom": "^18.3.1"
+    "react-dom": "^18.3.1",
+    "vite-plugin-sitemap": "^0.7.1",
+    "vite-plugin-ssr": "^0.4.142"
   },
   "devDependencies": {
     "@eslint/js": "^9.11.1",
